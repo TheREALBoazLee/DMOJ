@@ -38,7 +38,6 @@ public class ChiliPeppers {
 
         System.out.println(SHU);
 
-        //scan.close();
 
 
     }
